@@ -1,0 +1,8 @@
+{
+  "name": "smu20212",
+  "scripts": {
+    "postinstall": "npm install --prefix servidor",
+    "start": "npm start --prefix servidor"
+  },
+  "version": "1.0.0"
+}
